@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Dracula Official",
+  "theme": "obsidian",
+  "monospaceFontFamily": "Fira Mono for Powerline,Inconsolata-g for Powerline,DejaVu Sans Mono for Powerline,Droid Sans Mono for Powerline,Noto Mono for Powerline,Cousine for Powerline,Roboto Mono for Powerline,Liberation Mono for Powerline,Menlo",
+  "textFontFamily": "PingFang SC",
+  "enabledCssSnippets": [
+    "snippet"
+  ]
+}

@@ -1,0 +1,14 @@
+/*
+!.gitignore
+!app.json
+!appearance.json
+!community-plugins.json
+!core-plugins-migration.json
+!core-plugins.json
+!graph.json
+!hotkeys.json
+!types.json
+!/snippets
+!/themes
+!/plugins
+!/obsidian.sh

@@ -1,0 +1,16 @@
+body {
+  --color-magenta: rgb(255, 0, 174);
+}
+.theme-dark, .theme-light {
+  --table-header-color: var(--text-title-h1);
+  --code-normal: var(--color-magenta);
+}
+
+.cm-s-obsidian {
+  padding-left: 0%!important;
+  padding-right: 0%!important;
+}
+.cm-s-obsidian .HyperMD-table-row.HyperMD-table-row.HyperMD-table-row {
+  white-space: pre-wrap;
+  min-width: min-content;
+}
